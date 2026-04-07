@@ -1,0 +1,39 @@
+Django>=5.0,<6.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+psycopg2-binary>=2.9.9
+python-decouple>=3.8
+pandas>=2.1.0
+numpy>=1.26.0
+Pillow>=10.0.0
+djangorestframework-simplejwt>=5.3.0
+django-filter>=23.5
+requests>=2.31.0
+python-dateutil>=2.8.0
+celery>=5.3.0
+redis>=5.0.0
+channels>=4.0.0
+channels-redis>=4.1.0
+websockets>=12.0
+
+
+# ─── Market data fetching dependencies ──────────────────────────────────────
+# Install with: pip install -r requirements_market.txt
+
+# Yahoo Finance — forex, indices, commodities prices (free, no API key)
+yfinance>=0.2.36
+
+# RSS / Atom feed parsing — financial news
+feedparser>=6.0.11
+
+# HTML scraping — ForexFactory calendar + news cleanup
+beautifulsoup4>=4.12.3
+lxml>=5.1.0          # Fast HTML parser for BeautifulSoup
+
+# HTTP client (usually already installed via Django/DRF)
+requests>=2.31.0
+
+# Celery (optional — only needed if you use tasks.py for scheduling)
+# celery>=5.3.6
+# django-celery-beat>=2.6.0
+# redis>=5.0.3         # or use rabbitmq as broker

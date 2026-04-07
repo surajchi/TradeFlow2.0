@@ -1,0 +1,3279 @@
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/refresh/
+"POST /api/auth/refresh/ HTTP/1.1" 401 34
+Unauthorized: /api/auth/refresh/
+"POST /api/auth/refresh/ HTTP/1.1" 401 34
+"OPTIONS /api/auth/logout/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/logout/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/logout/
+"POST /api/auth/logout/ HTTP/1.1" 401 58
+Unauthorized: /api/auth/logout/
+"POST /api/auth/logout/ HTTP/1.1" 401 58
+"OPTIONS /api/auth/register/ HTTP/1.1" 200 0
+"POST /api/auth/register/ HTTP/1.1" 201 952
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"OPTIONS /api/market/overview/ HTTP/1.1" 200 0
+"OPTIONS /api/market/overview/ HTTP/1.1" 200 0
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+- Broken pipe from ('127.0.0.1', 63633)
+- Broken pipe from ('127.0.0.1', 55930)
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/trades/?status=ALL HTTP/1.1" 200 0
+Bad Request: /api/trades/
+"GET /api/trades/?status=ALL HTTP/1.1" 400 78
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+Watching for file changes with StatReloader
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"OPTIONS /api/mt5/accounts/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/imports/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/accounts/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/imports/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/manual-import-guide/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/manual-import-guide/ HTTP/1.1" 200 0
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"OPTIONS /api/mt5/accounts/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/imports/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/manual-import-guide/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/accounts/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/imports/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/manual-import-guide/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"OPTIONS /api/market/overview/ HTTP/1.1" 200 0
+"OPTIONS /api/market/overview/ HTTP/1.1" 200 0
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"GET /api/market/overview/ HTTP/1.1" 200 75
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 54
+"OPTIONS /api/mt5/test-connection/ HTTP/1.1" 200 0
+"POST /api/mt5/test-connection/ HTTP/1.1" 200 144
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 54
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\market_data\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\market_data\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\market_data\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\market_data\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/market/overview/ HTTP/1.1" 200 9125
+"GET /api/market/overview/ HTTP/1.1" 200 9125
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7203
+"GET /api/market/overview/ HTTP/1.1" 200 7203
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 230
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 1499
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"GET /api/mt5/accounts/ HTTP/1.1" 200 52
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"POST /api/mt5/accounts/ HTTP/1.1" 201 476
+"GET /api/mt5/accounts/ HTTP/1.1" 200 528
+"GET /api/mt5/imports/ HTTP/1.1" 200 52
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"OPTIONS /api/mt5/sync/ HTTP/1.1" 200 0
+Bad Gateway: /api/mt5/sync/
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Unauthorized: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 401 116
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+"OPTIONS /api/mt5/accounts/d800b8ec-2e21-4ff1-a86b-34a73e13d2e4/disconnect/ HTTP/1.1" 200 0
+"POST /api/mt5/accounts/d800b8ec-2e21-4ff1-a86b-34a73e13d2e4/disconnect/ HTTP/1.1" 200 48
+"GET /api/mt5/accounts/ HTTP/1.1" 200 609
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"GET /api/mt5/imports/ HTTP/1.1" 200 2715
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"GET /api/mt5/imports/ HTTP/1.1" 200 2715
+"GET /api/mt5/accounts/ HTTP/1.1" 200 609
+"GET /api/mt5/imports/ HTTP/1.1" 200 2715
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"GET /api/mt5/accounts/ HTTP/1.1" 200 609
+"POST /api/mt5/accounts/d800b8ec-2e21-4ff1-a86b-34a73e13d2e4/disconnect/ HTTP/1.1" 200 48
+"GET /api/mt5/accounts/ HTTP/1.1" 200 609
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"GET /api/mt5/imports/ HTTP/1.1" 200 2715
+Bad Gateway: /api/mt5/test-connection/
+"POST /api/mt5/test-connection/ HTTP/1.1" 502 102
+Bad Gateway: /api/mt5/test-connection/
+"POST /api/mt5/test-connection/ HTTP/1.1" 502 102
+Bad Gateway: /api/mt5/test-connection/
+"POST /api/mt5/test-connection/ HTTP/1.1" 502 102
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 85
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/mt5/accounts/ HTTP/1.1" 200 609
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"GET /api/mt5/imports/ HTTP/1.1" 200 2715
+"GET /api/mt5/accounts/ HTTP/1.1" 200 609
+"GET /api/mt5/manual-import-guide/ HTTP/1.1" 200 799
+"GET /api/mt5/imports/ HTTP/1.1" 200 2715
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/trades/?status=CLOSED HTTP/1.1" 200 0
+"GET /api/trades/?status=CLOSED HTTP/1.1" 200 52
+"OPTIONS /api/trades/?status=CLOSED&trade_type=SELL HTTP/1.1" 200 0
+"GET /api/trades/?status=CLOSED&trade_type=SELL HTTP/1.1" 200 52
+"OPTIONS /api/trades/?status=CLOSED&trade_type=All HTTP/1.1" 200 0
+Bad Request: /api/trades/
+"GET /api/trades/?status=CLOSED&trade_type=All HTTP/1.1" 400 82
+"OPTIONS /api/trades/?status=ALL&trade_type=All HTTP/1.1" 200 0
+Bad Request: /api/trades/
+"GET /api/trades/?status=ALL&trade_type=All HTTP/1.1" 400 159
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3391
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3391
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 85
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Unauthorized: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 401 108
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Request: /api/mt5/accounts/
+"POST /api/mt5/accounts/ HTTP/1.1" 400 85
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Unauthorized: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 401 108
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+"OPTIONS /api/mt5/import-file/ HTTP/1.1" 200 0
+"POST /api/mt5/import-file/ HTTP/1.1" 200 632
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3327
+"POST /api/mt5/import-file/ HTTP/1.1" 200 632
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3314
+Unauthorized: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 401 108
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Unauthorized: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 401 108
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Unauthorized: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 401 108
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"OPTIONS /api/market/overview/ HTTP/1.1" 200 0
+"OPTIONS /api/market/overview/ HTTP/1.1" 200 0
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3340
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3340
+"OPTIONS /api/mt5/sync/ HTTP/1.1" 200 0
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3341
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3341
+Internal Server Error: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 500 36
+Internal Server Error: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 500 36
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3173
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3173
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+"POST /api/auth/login/ HTTP/1.1" 200 940
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3173
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3173
+Internal Server Error: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 500 36
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3099
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3099
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3172
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3172
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 171
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 171
+"OPTIONS /api/mt5/accounts/ HTTP/1.1" 200 0
+"POST /api/mt5/accounts/ HTTP/1.1" 201 476
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 647
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 171
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 171
+"POST /api/mt5/accounts/ HTTP/1.1" 201 476
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 647
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+Bad Gateway: /api/mt5/sync/
+"POST /api/mt5/sync/ HTTP/1.1" 502 86
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/mt5/sync/ HTTP/1.1" 200 593
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3250
+"POST /api/mt5/sync/ HTTP/1.1" 200 593
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3200
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/mt5/sync/ HTTP/1.1" 200 593
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3150
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/trades/ HTTP/1.1" 200 2184
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1984
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1984
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3150
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3150
+"POST /api/mt5/sync/ HTTP/1.1" 200 593
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3100
+"OPTIONS /api/mt5/import-file/ HTTP/1.1" 200 0
+"POST /api/mt5/import-file/ HTTP/1.1" 200 690
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/trades/ HTTP/1.1" 200 2184
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1984
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1984
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/trades/ HTTP/1.1" 200 2184
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\trades\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1332
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 103891
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/trades/ HTTP/1.1" 200 2184
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 2184
+"GET /api/trades/ HTTP/1.1" 200 2184
+"OPTIONS /api/trades/bulk-delete/ HTTP/1.1" 200 0
+"POST /api/trades/bulk-delete/ HTTP/1.1" 200 44
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"POST /api/mt5/sync/ HTTP/1.1" 200 593
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/market/overview/ HTTP/1.1" 200 7193
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"POST /api/trades/bulk-delete/ HTTP/1.1" 200 44
+"GET /api/trades/ HTTP/1.1" 200 52
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\mt5_integration\services.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"OPTIONS /api/market/overview/ HTTP/1.1" 200 0
+"OPTIONS /api/market/overview/ HTTP/1.1" 200 0
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+"GET /api/market/overview/ HTTP/1.1" 200 7198
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+"POST /api/auth/login/ HTTP/1.1" 200 940
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/market/overview/ HTTP/1.1" 200 7209
+"GET /api/market/overview/ HTTP/1.1" 200 7209
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\market_data\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\market_data\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"OPTIONS /api/market/live/prices/ HTTP/1.1" 200 0
+"OPTIONS /api/market/live/news/ HTTP/1.1" 200 0
+"OPTIONS /api/market/live/calendar/?days=7 HTTP/1.1" 200 0
+"OPTIONS /api/market/live/news/ HTTP/1.1" 200 0
+"OPTIONS /api/market/live/calendar/?days=7 HTTP/1.1" 200 0
+"OPTIONS /api/market/live/prices/ HTTP/1.1" 200 0
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 72
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 72
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 72
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 73
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 73
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 73
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 73
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 73
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 73
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 73
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 323
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"POST /api/journal/goals/ HTTP/1.1" 201 461
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"OPTIONS /api/mt5/sync/ HTTP/1.1" 200 0
+"POST /api/mt5/sync/ HTTP/1.1" 200 593
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"OPTIONS /api/trades/?status=CLOSED HTTP/1.1" 200 0
+"GET /api/trades/?status=CLOSED HTTP/1.1" 200 2190
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/market/live/news/ HTTP/1.1" 200 70932
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/news/ HTTP/1.1" 200 70932
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3145
+"OPTIONS /api/mt5/import-file/ HTTP/1.1" 200 0
+"POST /api/mt5/import-file/ HTTP/1.1" 200 690
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\market_data\services.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/market/live/prices/ HTTP/1.1" 200 4358
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20965
+"GET /api/market/live/news/ HTTP/1.1" 200 70932
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20965
+"GET /api/market/live/news/ HTTP/1.1" 200 70932
+"GET /api/market/live/prices/ HTTP/1.1" 200 4353
+"GET /api/market/live/prices/ HTTP/1.1" 200 4353
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/market/live/prices/ HTTP/1.1" 200 4353
+"GET /api/market/live/news/ HTTP/1.1" 200 70932
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20965
+"GET /api/market/live/prices/ HTTP/1.1" 200 4353
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20965
+"GET /api/market/live/news/ HTTP/1.1" 200 70932
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 750
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1990
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+"GET /api/trades/ HTTP/1.1" 200 2190
+"GET /api/trades/ HTTP/1.1" 200 2190
+"POST /api/trades/ HTTP/1.1" 201 504
+"GET /api/trades/ HTTP/1.1" 200 2473
+"POST /api/trades/ HTTP/1.1" 201 494
+"GET /api/trades/ HTTP/1.1" 200 2752
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 610
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/analytics/ HTTP/1.1" 200 1435
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/ HTTP/1.1" 200 2752
+"GET /api/trades/ HTTP/1.1" 200 2752
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/news/ HTTP/1.1" 200 70930
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"OPTIONS /api/trades/a2338e7a-5c55-4912-894d-b1ff5b1d091a/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/a2338e7a-5c55-4912-894d-b1ff5b1d091a/ HTTP/1.1" 200 0
+"GET /api/trades/a2338e7a-5c55-4912-894d-b1ff5b1d091a/ HTTP/1.1" 200 817
+"GET /api/trades/a2338e7a-5c55-4912-894d-b1ff5b1d091a/ HTTP/1.1" 200 817
+"PATCH /api/trades/a2338e7a-5c55-4912-894d-b1ff5b1d091a/ HTTP/1.1" 200 216
+"GET /api/trades/ HTTP/1.1" 200 2770
+"GET /api/trades/ HTTP/1.1" 200 2770
+"OPTIONS /api/trades/8b817450-c1fe-4bdd-b4f5-0c728892490e/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/8b817450-c1fe-4bdd-b4f5-0c728892490e/ HTTP/1.1" 200 0
+"GET /api/trades/8b817450-c1fe-4bdd-b4f5-0c728892490e/ HTTP/1.1" 200 806
+"GET /api/trades/8b817450-c1fe-4bdd-b4f5-0c728892490e/ HTTP/1.1" 200 806
+"PATCH /api/trades/8b817450-c1fe-4bdd-b4f5-0c728892490e/ HTTP/1.1" 200 207
+"GET /api/trades/ HTTP/1.1" 200 2783
+"GET /api/trades/ HTTP/1.1" 200 2783
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 758
+"GET /api/trades/analytics/ HTTP/1.1" 200 1831
+"GET /api/trades/statistics/ HTTP/1.1" 200 376
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 758
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 376
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1831
+"GET /api/trades/statistics/ HTTP/1.1" 200 376
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1986
+"GET /api/trades/statistics/ HTTP/1.1" 200 376
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1986
+"GET /api/trades/ HTTP/1.1" 200 2783
+"GET /api/trades/ HTTP/1.1" 200 2783
+"POST /api/trades/ HTTP/1.1" 201 503
+"GET /api/trades/ HTTP/1.1" 200 3066
+"OPTIONS /api/trades/ebe26b22-d66e-493a-b2f8-18e2b41c0a17/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/ebe26b22-d66e-493a-b2f8-18e2b41c0a17/ HTTP/1.1" 200 0
+"GET /api/trades/ebe26b22-d66e-493a-b2f8-18e2b41c0a17/ HTTP/1.1" 200 815
+"GET /api/trades/ebe26b22-d66e-493a-b2f8-18e2b41c0a17/ HTTP/1.1" 200 815
+"PATCH /api/trades/ebe26b22-d66e-493a-b2f8-18e2b41c0a17/ HTTP/1.1" 200 216
+"GET /api/trades/ HTTP/1.1" 200 3083
+"GET /api/trades/ HTTP/1.1" 200 3083
+"POST /api/trades/ HTTP/1.1" 201 503
+"GET /api/trades/ HTTP/1.1" 200 3365
+"OPTIONS /api/trades/06782c18-d65e-4fd3-b6fa-fa82116a83c3/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/06782c18-d65e-4fd3-b6fa-fa82116a83c3/ HTTP/1.1" 200 0
+"GET /api/trades/06782c18-d65e-4fd3-b6fa-fa82116a83c3/ HTTP/1.1" 200 815
+"GET /api/trades/06782c18-d65e-4fd3-b6fa-fa82116a83c3/ HTTP/1.1" 200 815
+"PATCH /api/trades/06782c18-d65e-4fd3-b6fa-fa82116a83c3/ HTTP/1.1" 200 216
+"GET /api/trades/ HTTP/1.1" 200 3381
+"GET /api/trades/ HTTP/1.1" 200 3381
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 905
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1833
+"GET /api/trades/statistics/ HTTP/1.1" 200 377
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 905
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1833
+"GET /api/trades/statistics/ HTTP/1.1" 200 377
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+"GET /api/trades/ HTTP/1.1" 200 3381
+"GET /api/trades/ HTTP/1.1" 200 3381
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 1241
+"GET /api/trades/ HTTP/1.1" 200 1241
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 288
+"GET /api/trades/analytics/ HTTP/1.1" 200 668
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 288
+"GET /api/trades/analytics/ HTTP/1.1" 200 668
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 104257
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 104257
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/analytics/ HTTP/1.1" 200 668
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 288
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 288
+"GET /api/trades/analytics/ HTTP/1.1" 200 668
+"GET /api/trades/statistics/ HTTP/1.1" 500 104257
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 104257
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 288
+"GET /api/trades/analytics/ HTTP/1.1" 200 668
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 288
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 104257
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 668
+Internal Server Error: /api/trades/statistics/
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\renderers.py", line 97, in render
+    ret = json.dumps(
+        data, cls=self.encoder_class,
+        indent=indent, ensure_ascii=self.ensure_ascii,
+        allow_nan=not self.strict, separators=separators
+    )
+  File "C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\Python314\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+ValueError: Out of range float values are not JSON compliant: inf
+when serializing dict item 'profit_factor'
+"GET /api/trades/statistics/ HTTP/1.1" 500 104257
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"POST /api/mt5/sync/ HTTP/1.1" 200 593
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 905
+"GET /api/trades/analytics/ HTTP/1.1" 200 1833
+"GET /api/trades/statistics/ HTTP/1.1" 200 377
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 1833
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 905
+"GET /api/trades/statistics/ HTTP/1.1" 200 377
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/live/news/ HTTP/1.1" 200 70872
+"GET /api/market/live/news/ HTTP/1.1" 200 70872
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/market/live/prices/ HTTP/1.1" 200 4362
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 905
+"GET /api/market/live/prices/ HTTP/1.1" 200 4362
+"GET /api/trades/analytics/ HTTP/1.1" 200 1833
+"GET /api/trades/statistics/ HTTP/1.1" 200 377
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 905
+"GET /api/trades/analytics/ HTTP/1.1" 200 1833
+"GET /api/trades/statistics/ HTTP/1.1" 200 377
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\trades\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\trades\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/trades/statistics/ HTTP/1.1" 200 377
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1973
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/trades/statistics/ HTTP/1.1" 200 377
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1973
+"GET /api/trades/ HTTP/1.1" 200 3381
+"GET /api/trades/ HTTP/1.1" 200 3381
+"OPTIONS /api/trades/bulk-delete/ HTTP/1.1" 200 0
+"POST /api/trades/bulk-delete/ HTTP/1.1" 200 44
+"GET /api/trades/ HTTP/1.1" 200 1241
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 1241
+"GET /api/trades/ HTTP/1.1" 200 1241
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 288
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/trades/analytics/ HTTP/1.1" 200 659
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 288
+"GET /api/trades/analytics/ HTTP/1.1" 200 659
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+Bad Request: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 400 88
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\trades\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/trades/ HTTP/1.1" 200 1241
+"GET /api/trades/ HTTP/1.1" 200 1241
+"POST /api/trades/ HTTP/1.1" 201 513
+"GET /api/trades/ HTTP/1.1" 200 1524
+"OPTIONS /api/trades/374d553c-0fb3-4801-a562-5327a23befa7/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/374d553c-0fb3-4801-a562-5327a23befa7/ HTTP/1.1" 200 0
+"GET /api/trades/374d553c-0fb3-4801-a562-5327a23befa7/ HTTP/1.1" 200 825
+"GET /api/trades/374d553c-0fb3-4801-a562-5327a23befa7/ HTTP/1.1" 200 825
+"PATCH /api/trades/374d553c-0fb3-4801-a562-5327a23befa7/ HTTP/1.1" 200 225
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/live/news/ HTTP/1.1" 200 70872
+"GET /api/market/live/news/ HTTP/1.1" 200 70872
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\journal\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\journal\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\journal\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\journal\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/live/news/ HTTP/1.1" 200 70906
+"GET /api/market/live/news/ HTTP/1.1" 200 70906
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/news/ HTTP/1.1" 200 70906
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/news/ HTTP/1.1" 200 70906
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+Unauthorized: /api/journal/entries/
+Unauthorized: /api/journal/goals/
+"GET /api/journal/entries/ HTTP/1.1" 401 172
+"GET /api/journal/goals/ HTTP/1.1" 401 172
+Unauthorized: /api/journal/summary/
+Unauthorized: /api/journal/entries/
+Unauthorized: /api/journal/goals/
+"GET /api/journal/entries/ HTTP/1.1" 401 172
+"GET /api/journal/goals/ HTTP/1.1" 401 172
+"GET /api/journal/summary/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+Unauthorized: /api/journal/summary/
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"GET /api/journal/summary/ HTTP/1.1" 401 172
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1964
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1964
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/374d553c-0fb3-4801-a562-5327a23befa7/ HTTP/1.1" 200 850
+"GET /api/trades/374d553c-0fb3-4801-a562-5327a23befa7/ HTTP/1.1" 200 850
+"PATCH /api/trades/374d553c-0fb3-4801-a562-5327a23befa7/ HTTP/1.1" 200 225
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/market/live/news/ HTTP/1.1" 200 70933
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/market/live/news/ HTTP/1.1" 200 70933
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/market/live/news/ HTTP/1.1" 200 70933
+"GET /api/market/live/news/ HTTP/1.1" 200 70933
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/market/live/prices/ HTTP/1.1" 200 4354
+"GET /api/market/live/prices/ HTTP/1.1" 200 4354
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/news/ HTTP/1.1" 200 70931
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/prices/ HTTP/1.1" 200 4357
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 359
+"GET /api/trades/analytics/ HTTP/1.1" 200 647
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1964
+"GET /api/trades/statistics/ HTTP/1.1" 200 364
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1964
+"GET /api/trades/ HTTP/1.1" 200 1540
+"GET /api/trades/ HTTP/1.1" 200 1540
+"POST /api/trades/ HTTP/1.1" 201 503
+"GET /api/trades/ HTTP/1.1" 200 1822
+"OPTIONS /api/trades/cedbdb71-836b-49dd-a05d-51724947db72/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/cedbdb71-836b-49dd-a05d-51724947db72/ HTTP/1.1" 200 0
+"GET /api/trades/cedbdb71-836b-49dd-a05d-51724947db72/ HTTP/1.1" 200 815
+"GET /api/trades/cedbdb71-836b-49dd-a05d-51724947db72/ HTTP/1.1" 200 815
+"PATCH /api/trades/cedbdb71-836b-49dd-a05d-51724947db72/ HTTP/1.1" 200 216
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\services.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+Service Unavailable: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 503 332
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\services.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1960
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1960
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"GET /api/trades/ HTTP/1.1" 200 1837
+"GET /api/trades/ HTTP/1.1" 200 1837
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+Internal Server Error: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 500 597
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\services.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1960
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 1960
+"GET /api/trades/ HTTP/1.1" 200 1837
+"GET /api/trades/ HTTP/1.1" 200 1837
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+Service Unavailable: /api/analytics/insights/
+"POST /api/analytics/insights/ HTTP/1.1" 503 332
+C:\Users\Admin\Desktop\TRADEFLOW0.2\TradeFlow2.0\backend\analytics\services.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/goals/ HTTP/1.1" 200 517
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 429
+"GET /api/trades/analytics/ HTTP/1.1" 200 741
+"GET /api/trades/statistics/ HTTP/1.1" 200 366
+"GET /api/trades/ HTTP/1.1" 200 1837
+"GET /api/trades/ HTTP/1.1" 200 1837
+"OPTIONS /api/trades/bulk-delete/ HTTP/1.1" 200 0
+"POST /api/trades/bulk-delete/ HTTP/1.1" 200 44
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"OPTIONS /api/market/live/prices/ HTTP/1.1" 200 0
+"OPTIONS /api/market/live/news/ HTTP/1.1" 200 0
+"OPTIONS /api/market/live/calendar/?days=7 HTTP/1.1" 200 0
+"OPTIONS /api/market/live/prices/ HTTP/1.1" 200 0
+"OPTIONS /api/market/live/calendar/?days=7 HTTP/1.1" 200 0
+"OPTIONS /api/market/live/news/ HTTP/1.1" 200 0
+"GET /api/market/live/news/ HTTP/1.1" 200 70855
+"GET /api/market/live/news/ HTTP/1.1" 200 70855
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20963
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4362
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/news/ HTTP/1.1" 200 70855
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4359
+"GET /api/market/live/news/ HTTP/1.1" 200 70855
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"GET /api/market/live/prices/ HTTP/1.1" 200 4356
+"GET /api/market/live/prices/ HTTP/1.1" 200 4355
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 20966
+"GET /api/market/live/news/ HTTP/1.1" 200 70855
+"GET /api/market/live/news/ HTTP/1.1" 200 70855
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4362
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4362
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 4362
+"GET /api/market/live/prices/ HTTP/1.1" 200 4361
+"GET /api/market/live/prices/ HTTP/1.1" 200 256
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/news/ HTTP/1.1" 200 70855
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/news/ HTTP/1.1" 200 69
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/news/ HTTP/1.1" 200 69
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/news/ HTTP/1.1" 200 69
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/news/ HTTP/1.1" 200 69
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 90
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 90
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/news/ HTTP/1.1" 200 69
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+Unauthorized: /api/market/live/prices/
+"GET /api/market/live/prices/ HTTP/1.1" 401 172
+Unauthorized: /api/market/live/news/
+"GET /api/market/live/news/ HTTP/1.1" 401 172
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+- Broken pipe from ('127.0.0.1', 49803)
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 72
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 72
+"GET /api/market/live/news/ HTTP/1.1" 200 69
+- Broken pipe from ('127.0.0.1', 56765)
+"GET /api/market/live/news/ HTTP/1.1" 200 69
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 93
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 92
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 91
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/news/ HTTP/1.1" 200 71
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/news/ HTTP/1.1" 200 71
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/news/ HTTP/1.1" 200 71
+"GET /api/market/live/calendar/?days=7 HTTP/1.1" 200 74
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+"GET /api/market/live/news/ HTTP/1.1" 200 71
+"GET /api/market/live/prices/ HTTP/1.1" 200 4360
+Watching for file changes with StatReloader
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/profile/ HTTP/1.1" 200 0
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+Unauthorized: /api/auth/profile/
+"GET /api/auth/profile/ HTTP/1.1" 401 172
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"OPTIONS /api/auth/refresh/ HTTP/1.1" 200 0
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"POST /api/auth/refresh/ HTTP/1.1" 200 582
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/dashboard/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/statistics/ HTTP/1.1" 200 0
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/ HTTP/1.1" 200 0
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/trades/ HTTP/1.1" 200 52
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/analytics/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/equity-curve/ HTTP/1.1" 200 0
+"OPTIONS /api/analytics/insights/ HTTP/1.1" 200 0
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 127
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/trades/statistics/ HTTP/1.1" 200 347
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 464
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"OPTIONS /api/mt5/dashboard-stats/ HTTP/1.1" 200 0
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3240
+"OPTIONS /api/mt5/sync/ HTTP/1.1" 200 0
+"POST /api/mt5/sync/ HTTP/1.1" 200 594
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3149
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/entries/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/summary/ HTTP/1.1" 200 0
+"OPTIONS /api/journal/goals/ HTTP/1.1" 200 0
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/journal/entries/ HTTP/1.1" 200 52
+"GET /api/journal/summary/ HTTP/1.1" 200 83
+"GET /api/journal/goals/ HTTP/1.1" 200 513
+"GET /api/trades/ HTTP/1.1" 200 1881
+"GET /api/trades/ HTTP/1.1" 200 1881
+"OPTIONS /api/trades/bulk-delete/ HTTP/1.1" 200 0
+"POST /api/trades/bulk-delete/ HTTP/1.1" 200 44
+"GET /api/trades/ HTTP/1.1" 200 52
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3149
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3149
+"POST /api/mt5/sync/ HTTP/1.1" 200 593
+"GET /api/mt5/dashboard-stats/ HTTP/1.1" 200 3149
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 695
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/statistics/ HTTP/1.1" 200 362
+"GET /api/trades/analytics/ HTTP/1.1" 200 1678
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 695
+"GET /api/trades/analytics/ HTTP/1.1" 200 1678
+"GET /api/trades/ HTTP/1.1" 200 2489
+"GET /api/trades/ HTTP/1.1" 200 2489
+"POST /api/trades/bulk-delete/ HTTP/1.1" 200 44
+"GET /api/trades/ HTTP/1.1" 200 659
+"POST /api/trades/bulk-delete/ HTTP/1.1" 200 44
+"GET /api/trades/ HTTP/1.1" 200 356
+"OPTIONS /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 0
+"OPTIONS /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 0
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 827
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 827
+"PATCH /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 377
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/statistics/ HTTP/1.1" 200 356
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 776
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/trades/d40982b6-1b36-4566-9f28-9d9378e322d1/ HTTP/1.1" 200 998
+"GET /api/trades/statistics/ HTTP/1.1" 200 356
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 776
+"GET /api/trades/statistics/ HTTP/1.1" 200 356
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 776
+"GET /api/trades/statistics/ HTTP/1.1" 200 356
+"GET /api/trades/dashboard/summary/ HTTP/1.1" 200 776
+"GET /api/trades/ HTTP/1.1" 200 356
+"GET /api/trades/ HTTP/1.1" 200 356
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 89
+"GET /api/trades/statistics/ HTTP/1.1" 200 356
+"GET /api/analytics/insights/ HTTP/1.1" 200 2
+"GET /api/trades/analytics/ HTTP/1.1" 200 557
+"GET /api/analytics/equity-curve/ HTTP/1.1" 200 89
+"GET /api/trades/statistics/ HTTP/1.1" 200 356
+"GET /api/trades/analytics/ HTTP/1.1" 200 557
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/auth/profile/ HTTP/1.1" 200 309
+"GET /api/trades/ HTTP/1.1" 200 356
+"GET /api/trades/ HTTP/1.1" 200 356
